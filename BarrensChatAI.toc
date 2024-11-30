@@ -1,4 +1,4 @@
-## Interface: 99999
+## Interface: 11505
 ## Title: BarrensChatAI
 ## Notes: An addon that uses AI to simulate a humorous and informative leveling experience. A type of companion in the sometimes lonely world of Azeroth.
 ## Author: Connor Floyd (xenoyle)
